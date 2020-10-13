@@ -1,2 +1,5 @@
 # Autonomous-Navigation-and-Path-Planning-for-Ground-Vehicle-in-Indoor-Environment-
  Implementation of a vision based robust and inexpensive autonomous navigation system which enables determination of optimal path in real time between initial position and desired position in a cluttered environment with help of stereo vision has been presented. Stereo vision has been used for obstacle identiﬁcation followed by range estimation through generation of disparity map obtained for each frame. Furthermore, upon object identiﬁcation and calculation of corresponding distance to each object landmark identiﬁcation is done for building map of the environment for the robot.Following this,implementation of path planning algorithms on the map help in generating waypoints for autonomous traversal with ease. This proposed system enables navigation of a robot based on dynamic mapping of environment and path planning in complex scenarios through stereo vision in real time.
+ 
+ 
+ # Go through the ppt to understand the flow
